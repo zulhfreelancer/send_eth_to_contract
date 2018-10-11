@@ -1,0 +1,1 @@
+My solution to a Truffle question on [StackOverflow](https://stackoverflow.com/q/52740950/1577357).
